@@ -11,8 +11,19 @@ nav {
     height: 100px;
 }
 
-nav [class*="col-"] {
+nav [class*="col"] {
     background-color: red;
-    margin: 0;
+}
+
+section .row {
+    height: 400px;
+}
+
+section {
+    background-color: #1abc9c;
+}
+
+section [class*="col"] {
+    background-color: blue;
 }
 
