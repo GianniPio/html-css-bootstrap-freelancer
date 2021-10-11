@@ -11,19 +11,11 @@ nav {
     height: 100px;
 }
 
-nav [class*="col"] {
-    background-color: red;
-}
-
 section .row {
     height: 400px;
 }
 
-section {
+.jumbotron {
     background-color: #1abc9c;
-}
-
-section [class*="col"] {
-    background-color: blue;
 }
 
