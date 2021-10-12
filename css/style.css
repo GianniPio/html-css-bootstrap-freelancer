@@ -54,8 +54,9 @@ nav {
 }
 
 .info {
-    height: 300px;
+    min-height: 300px;
     background-color: #3a546d;
+    color: white;
 }
 
 
@@ -74,9 +75,13 @@ footer {
     border: 1px solid white;
     padding: 10px;
     border-radius: 20px;
-    font-size: 16px;
     width: auto;
-    margin-bottom: 0;
     height: 50px;
     cursor: pointer;
+  }
+
+  .info .col- {
+      border: 1px solid black;
+      height: 100%;
+      width: 100%;
   }
