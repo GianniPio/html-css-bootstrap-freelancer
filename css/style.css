@@ -31,21 +31,21 @@ nav {
     margin-bottom: 20px;
 }
 
-main {
-    height: 1000px;
-}
-
 .dark_text {
     color:#383838;
 }
 
 #portfolio {
     padding-top: 30px;
+    margin-bottom: 40px;
+}
+
+.contenitore_img {
+    margin: 10px 0;
 }
 
 .contenitore_img img {
     border-radius: 20px;
-
 }
 
 .text-page {
