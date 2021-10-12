@@ -15,6 +15,11 @@ nav {
     height: 400px;
 }
 
+.jumbotron img {
+    height: 250px;
+    width: 250px;
+}
+
 main {
     height: 1000px;
 }
@@ -38,7 +43,7 @@ main {
 
 .text-page {
     background-color: #1abc9c;
-    height: 600px;
+    min-height: 600px;
 }
 
 .contact {
